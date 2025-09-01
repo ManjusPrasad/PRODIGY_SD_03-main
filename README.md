@@ -31,18 +31,17 @@ This GUI-based application allows users to **add**, **view**, **edit**, **delete
 
 ## 👩‍💻 Developed by
 
-**Vaishnavi Lalan**  
+**ManjuPrasad**  
 Aspiring Developer | Intern at Prodigy Infotech  
-🔗 [LinkedIn](www.linkedin.com/in/vaishnavi-lalan-270419310) | 
-[GitHub](https://github.com/VaishnaviLalan106)
+🔗 [LinkedIn](https://www.linkedin.com/in/manju-prasad-86b729377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 
+[GitHub](https://github.com/ManjusPrasad)
 
 ---
        
 📂 Folder Structure
 ```
 contact-management-system/
-├── contact_manage.py       
-├── contacts.json            
+├── contact_manage.py                 
 ├── README.md                
 └── image.png   
 ```
